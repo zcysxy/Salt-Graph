@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "a43dfef0a397f79f",
+    "type": "split",
+    "children": [
+      {
+        "id": "13aa0e5470db6f5c",
+        "type": "leaf",
+        "state": {
+          "type": "mindmapview",
+          "state": {
+            "file": "MarkMind Test.md"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"mindmapview\",\"state\":{\"file\":\"MarkMind Test.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "fingerprint": "c7845ae94e835780ae70a94c073116e8",
+              "uid": 0,
+              "destination": {
+                "hash": "page=1&zoom=80,0,481",
+                "page": 1,
+                "first": 1,
+                "rotation": 0
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64f6f9016083cb8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2e586a31afd8cbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39a277964137f705",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b63b7840d94c22a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a936a75876622859",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268
+  },
+  "right": {
+    "id": "bb6dccee3cefba2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5756f3dd5d4d1c7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f4519c00e573358",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MarkMind Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8bc2941cfdba5e48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MarkMind Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e65c87ce38ea76b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ee639eecd5204389",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MarkMind Test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332,
+    "collapsed": true
+  },
+  "active": "13aa0e5470db6f5c",
+  "lastOpenFiles": [
+    "MarkMind Test.md",
+    "Piped_Links.md",
+    "A Spectral Algorithm for Learning Hidden Markov Models_Hsu et al DH et al_2012.pdf",
+    "templates/tp.newNote.md",
+    "journals/2021_08_13.md",
+    "Logseq/Feature Request.md",
+    "Logseq.md",
+    "Hotkeys.md",
+    "Obsidian.Setup.md",
+    "Obsidian.Hotkeys.md"
+  ]
+}

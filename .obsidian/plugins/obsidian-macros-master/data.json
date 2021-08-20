@@ -1,0 +1,53 @@
+{
+  "macros": [
+    {
+      "mobileOnly": false,
+      "icon": "feather-save",
+      "commandID": "macro-plugin:save+",
+      "commands": [
+        "markdown-prettifier:markdown-prettifier-update-fields",
+        "editor:save-file"
+      ],
+      "delay": 10,
+      "name": "save+"
+    },
+    {
+      "mobileOnly": false,
+      "icon": "feather-maximize",
+      "commandID": "macro-plugin:max",
+      "commands": [
+        "obsidian-electron-window-tweaker:ewt-toggle-on-top",
+        "obsidian-electron-window-tweaker:ewt-increase-opacity",
+        "obsidian-electron-window-tweaker:ewt-increase-opacity",
+        "obsidian-electron-window-tweaker:ewt-increase-opacity",
+        "obsidian-electron-window-tweaker:ewt-increase-opacity",
+        "obsidian-electron-window-tweaker:ewt-increase-opacity",
+        "obsidian-focus-mode:toggle-focus-mode",
+        "sliding-panes-obsidian:toggle-sliding-panes",
+        "obsidian-hider:toggle-hider-status",
+        "obsidian-hider:toggle-app-ribbon"
+      ],
+      "delay": 10,
+      "name": "max"
+    },
+    {
+      "mobileOnly": false,
+      "icon": "feather-minimize",
+      "commandID": "macro-plugin:min",
+      "commands": [
+        "obsidian-hider:toggle-app-ribbon",
+        "obsidian-hider:toggle-hider-status",
+        "obsidian-focus-mode:toggle-super-focus-mode",
+        "sliding-panes-obsidian:toggle-sliding-panes",
+        "obsidian-electron-window-tweaker:ewt-decrease-opacity",
+        "obsidian-electron-window-tweaker:ewt-decrease-opacity",
+        "obsidian-electron-window-tweaker:ewt-decrease-opacity",
+        "obsidian-electron-window-tweaker:ewt-decrease-opacity",
+        "obsidian-electron-window-tweaker:ewt-decrease-opacity",
+        "obsidian-electron-window-tweaker:ewt-toggle-on-top"
+      ],
+      "delay": 10,
+      "name": "min"
+    }
+  ]
+}

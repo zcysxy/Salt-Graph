@@ -1,0 +1,9 @@
+{
+  "useTab": true,
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheck": true,
+  "promptDelete": false
+}

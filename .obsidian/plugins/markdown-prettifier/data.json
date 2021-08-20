@@ -1,0 +1,9 @@
+{
+  "bullet": "-",
+  "emphasis": "*",
+  "rule": "-",
+  "createHeaderIfNotPresent": true,
+  "updateHeader": true,
+  "newHeaderTemplate": "modified: '{{date:YYYY-MM-DD HH:mm:ss}}'",
+  "listItemIndent": "tab"
+}

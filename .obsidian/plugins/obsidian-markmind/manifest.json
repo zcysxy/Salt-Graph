@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-markmind",
+	"name": "Enhancing Mindmap",
+	"version": "0.1.0",
+	"minAppVersion": "0.9.12",
+	"description": "This is a mindmap plugin and pdf annotate tool for obsidian. You can edit mindmap on markdown.",
+	"author": "Mark",
+	"authorUrl": "https://github.com/MarkMindCkm/obsidian-markmind",
+	"isDesktopOnly": false
+}
