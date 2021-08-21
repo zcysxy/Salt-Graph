@@ -163,7 +163,7 @@
  :preferred-format :markdown
  :date-formatter "yyyy-MM-dd"
  :feature/enable-journals? true
- :zotero/settings-v2 {"default" {:type-id "6737550", :zotero-linked-attachment-base-directory "D:/OneDrive1/3-KNWL/33-Ref", :notes-block-text "[[Notes]]"}}
+ :zotero/settings-v2 {"default" {:type-id "6737550", :zotero-linked-attachment-base-directory "D:/OneDrive1/3-KNWL/33-Ref", :notes-block-text "[[Notes]]", :zotero-data-directory "D:/7-APP/Zotero/data", :extra-tags ""}}
  ;; :default-home {:page "Logseq"}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)

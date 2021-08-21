@@ -1,1 +1,1 @@
-- [[@Wittgenstein and Brouwer]]
+- [[@Reward-Free Exploration for Reinforcement Learning]]
