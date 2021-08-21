@@ -16,3 +16,7 @@ links:: [Local library](zotero://select/library/items/QI2Y8JBX), [Web library](h
 	- Exploration is widely regarded as one of the most challenging aspects of reinforcement learning (RL), with many naive approaches succumbing to exponential sample complexity. To isolate the challenges of exploration, we propose a new “reward-free RL” framework. In the exploration phase, the agent ﬁrst collects trajectories from an MDP M without a pre-speciﬁed reward function. After exploration, it is tasked with computing near-optimal policies under for M for a collection of given reward functions. This framework is particularly suitable when there are many reward functions of interest, or when the reward function is shaped by an external agent to elicit desired behavior.
 - [[Attachments]]
 	- [Reward-Free Exploration for Reinforcement Learning_Jin et al CJ et al_.pdf](zotero://select/library/items/669PFNMP) {{zotero-linked-file "attachments:CS/RL/Reward-Free Exploration for Reinforcement Learning_Jin et al CJ et al_.pdf"}}
+- [[Reference]]
+	- ((6120a96b-8f17-4533-aa8c-800786326cd8))
+	- ((6120a9b0-cb7a-45b8-b13f-dfd73efcad37))
+	- ((6120a9ec-481c-4026-b6da-797b215dee13))
