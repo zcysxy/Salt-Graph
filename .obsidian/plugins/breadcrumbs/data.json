@@ -1,0 +1,50 @@
+{
+  "userHierarchies": [
+    {
+      "up": [
+        "sup"
+      ],
+      "same": [
+        "para"
+      ],
+      "down": [
+        "sub"
+      ]
+    }
+  ],
+  "indexNote": [
+    ""
+  ],
+  "hierarchyNotes": [
+    "Hierarchies"
+  ],
+  "hierarchyNoteFieldName": "sub",
+  "refreshIndexOnActiveLeafChange": false,
+  "useAllMetadata": true,
+  "parseJugglLinksWithoutJuggl": false,
+  "dvWaitTime": 5000,
+  "refreshIntervalTime": 0,
+  "defaultView": true,
+  "showNameOrType": true,
+  "showRelationType": true,
+  "filterImpliedSiblingsOfDifferentTypes": false,
+  "rlLeaf": true,
+  "showTrail": true,
+  "trailOrTable": 1,
+  "gridDots": true,
+  "dotsColour": "#000000",
+  "gridHeatmap": false,
+  "heatmapColour": " #705dcf",
+  "showAll": false,
+  "noPathMessage": "This note has no real or implied parents",
+  "trailSeperator": "→",
+  "respectReadableLineLength": true,
+  "visGraph": "Force Directed Graph",
+  "visRelation": "Parent",
+  "visClosed": "Real",
+  "visAll": "All",
+  "wikilinkIndex": true,
+  "aliasesInIndex": false,
+  "debugMode": true,
+  "superDebugMode": false
+}

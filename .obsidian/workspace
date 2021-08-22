@@ -7,29 +7,134 @@
         "id": "13aa0e5470db6f5c",
         "type": "leaf",
         "state": {
-          "type": "mindmapview",
+          "type": "markdown",
           "state": {
-            "file": "MarkMind Test.md"
+            "file": "Hierarchies.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "13aa0e5470db6f5c",
               "group": null,
-              "state": "{\"type\":\"mindmapview\",\"state\":{\"file\":\"MarkMind Test.md\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Zotero.Test.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}}}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Hierarchies.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":18},\"to\":{\"line\":5,\"ch\":18}}}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Logseq.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "fingerprint": "c7845ae94e835780ae70a94c073116e8",
-              "uid": 0,
-              "destination": {
-                "hash": "page=1&zoom=80,0,481",
-                "page": 1,
-                "first": 1,
-                "rotation": 0
-              }
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Hierarchies.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Hierarchies.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Logseq.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":9.375}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Obsidian.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Better Word Count.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Hierarchies.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Logseq.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Breadcrumb.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Obsidian.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Logseq.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Obsidian.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Breadcrumb.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Obsidian.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Breadcrumb.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Obsidian.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "13aa0e5470db6f5c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Breadcrumb.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
             }
           ]
         }
@@ -77,48 +182,11 @@
             }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 268
-  },
-  "right": {
-    "id": "bb6dccee3cefba2c",
-    "type": "split",
-    "children": [
+      },
       {
-        "id": "5756f3dd5d4d1c7b",
+        "id": "bd7cabd91df089de",
         "type": "tabs",
         "children": [
-          {
-            "id": "5f4519c00e573358",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "MarkMind Test.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "8bc2941cfdba5e48",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "MarkMind Test.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "e65c87ce38ea76b2",
             "type": "leaf",
@@ -136,28 +204,134 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarkMind Test.md"
+                "file": "Hierarchies.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 332,
+    "width": 268,
     "collapsed": true
+  },
+  "right": {
+    "id": "bb6dccee3cefba2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5756f3dd5d4d1c7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc9d35958f814127",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Hierarchies.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "cc9d35958f814127",
+                  "group": null,
+                  "state": "{\"type\":\"localgraph\",\"state\":{\"file\":\"Breadcrumb.md\",\"options\":{\"collapse-filter\":true,\"search\":\"\",\"localJumps\":1,\"localBacklinks\":true,\"localForelinks\":true,\"localInterlinks\":false,\"showTags\":false,\"showAttachments\":false,\"hideUnresolved\":false,\"collapse-color-groups\":true,\"colorGroups\":[],\"collapse-display\":true,\"showArrow\":false,\"textFadeMultiplier\":0,\"nodeSizeMultiplier\":1,\"lineSizeMultiplier\":1,\"collapse-forces\":true,\"centerStrength\":0.518713248970312,\"repelStrength\":10,\"linkStrength\":1,\"linkDistance\":250,\"scale\":1,\"close\":false}}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "57217fb1b8f62ab4",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "aaff3dcae50af182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc2941cfdba5e48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hierarchies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f4519c00e573358",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hierarchies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332
   },
   "active": "13aa0e5470db6f5c",
   "lastOpenFiles": [
-    "MarkMind Test.md",
-    "Piped_Links.md",
-    "A Spectral Algorithm for Learning Hidden Markov Models_Hsu et al DH et al_2012.pdf",
-    "templates/tp.newNote.md",
-    "journals/2021_08_13.md",
-    "Logseq/Feature Request.md",
+    "Hierarchies.md",
+    "Zotero.Test.md",
+    "Logseq.Test.md",
     "Logseq.md",
-    "Hotkeys.md",
-    "Obsidian.Setup.md",
-    "Obsidian.Hotkeys.md"
+    "1.2.md",
+    "2.md",
+    "1.md",
+    "Obsidian.md",
+    "Better Word Count.md",
+    "Breadcrumb.md"
   ]
 }

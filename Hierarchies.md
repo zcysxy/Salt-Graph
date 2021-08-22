@@ -1,0 +1,6 @@
+- [[Logseq]]
+	- [[Logseq.Test]]
+	- [[Logseq.Query]]
+	- [[Logseq.Settings]]
+- [[Zotero]]
+	- [[Zotero.Test]]
